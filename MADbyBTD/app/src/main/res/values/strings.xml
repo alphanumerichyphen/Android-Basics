@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MADbyBTD</string>
+    <string name="desc_text">MADbyBTD is a volunteer-based student activist group working in Dehradun and Jodhpur on environment, poverty and to increase civic consciousness.</string>
+    <string name="act">Activities</string>
+    <string name="act_list">- Clean up drives<br />- Wall Transformations<br />- Policy initiatives<br />- Madathon and much more</string>
+    <string name="question1">How to get in touch?</string>
+    <string name="answer1">Contact us on<br />- Whatsapp : 78953955999<br />- Mail : madbybtd@gmail.com</string>
+</resources>
